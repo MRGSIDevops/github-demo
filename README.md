@@ -11,6 +11,10 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 # GitHub & GitLab Learning & Projects
 
+*Git Cheat Sheet*    
+https://education.github.com/git-cheat-sheet-education.pdf
+
+
 [Git Training By Jason Taylor](https://www.udemy.com/course/git-complete/learn/lecture/2117364#overview)
 
 [Git Training By Mike Kilic](https://www.udemy.com/course/git-mastery-beginner-to-expert-with-github-gitlab/learn/)
